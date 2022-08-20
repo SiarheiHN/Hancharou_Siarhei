@@ -1,0 +1,11 @@
+body{
+    zoom: 50%;
+}
+.card{
+    background-image: url('cards.png'); 
+    background-repeat: no-repeat;
+    width: 139px; 
+    height: 189px; 
+    display: inline-block;
+    
+}

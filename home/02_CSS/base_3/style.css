@@ -1,0 +1,32 @@
+.parent {
+    background-color: #dbdbdb;
+}
+
+.leftBlock {
+    width: 15em;
+    background-color: #cccccc;
+    float: left;
+}
+
+.article {
+    background-color: #aaaaaa;
+    margin-top: 0.2em;
+    margin-left: 15em;
+    padding-top: 0.1px;
+    padding-bottom: 0.1px;
+}
+
+.footerBlock {
+    background-color: #cccccc;
+    clear: both;
+    margin-top: 0.2em;
+    padding-top: 0.1px;
+}
+
+.clear {
+    clear: both;
+}
+
+img {
+    float: right;
+}
